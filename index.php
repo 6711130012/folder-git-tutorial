@@ -1,4 +1,4 @@
 <?php 
-     echo "wowowowow"
-     echo "whywhwhywhwy"
-?> 
+     echo   "wowowowow";
+     echo "whywhwhywhwy";
+?>  
